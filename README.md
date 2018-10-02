@@ -14,7 +14,7 @@ Objetivos iniciales del proyecto
 
 ### Diagnóstico
 
-![Presentación diagnóstico](https://docs.google.com/presentation/d/1EdjIAJmSK149UQKdj643wR-rmzvPXoSl2eJrDbdnz6U/edit?usp=sharing)
+[Presentación diagnóstico](https://docs.google.com/presentation/d/1EdjIAJmSK149UQKdj643wR-rmzvPXoSl2eJrDbdnz6U/edit?usp=sharing)
 
 Entre los problemas de experiencia dentro de la etapa 1 y 2 del funnel de conversión se detectaron:
 * Tráfico poco adecuado al perfil de usuario planteado
@@ -185,7 +185,7 @@ Esta sección muestra una consistencia en cuanto al despliegue de la informació
 
 ## 2. Informe de análisis competitivo
 
-![Presentación soluciones](https://docs.google.com/presentation/d/15Jk12SpSEET5nxCrUHETG8jvvqPtr_ZwmY_dPs3VFe8/edit?usp=sharing)
+[Presentación soluciones](https://docs.google.com/presentation/d/15Jk12SpSEET5nxCrUHETG8jvvqPtr_ZwmY_dPs3VFe8/edit?usp=sharing)
 
 
 ### Competidores relacionados 
@@ -276,7 +276,7 @@ https://marvelapp.com/5igehb5
 
 ## 8. Diseño visual
 
-![Presentación Implementación](https://docs.google.com/presentation/d/1OdNk1RsB-MBuvHc30mfXdeXWqLl9oMv26FKrXguSlek/edit?usp=sharing)
+[Presentación Implementación](https://docs.google.com/presentation/d/1OdNk1RsB-MBuvHc30mfXdeXWqLl9oMv26FKrXguSlek/edit?usp=sharing)
 
 
 verdes y azules
