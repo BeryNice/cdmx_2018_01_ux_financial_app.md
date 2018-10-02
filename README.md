@@ -145,7 +145,6 @@ Esta sección muestra una consistencia en cuanto al despliegue de la informació
 
 
 **Insights de investigación y estadísticas**
-![insights usuarios](insights.png)
 * Los mexicanos ahorran de manera informal (tandas, debajo del colchón), lo hacemos pensando en el corto plazo.
 * El ahorro es a corto plazo, para cubrir emergencias o metas personales inmediatas.
 * No pensamos en el futuro, no planeamos el futuro.
@@ -211,6 +210,8 @@ Esta sección muestra una consistencia en cuanto al despliegue de la informació
 
 ### Entrevistas Insights
 
+![insights usuarios](images/insights.png)
+
 * Estoy ahorrando por varios medios para una meta de largo plazo (Una casa) de 3 a 5 años
 * Algunos ahorros son formales (caja de ahorro de la empresa, banco) y otros informales (tanda)
 * Voy juntando el 10% de mi sueldo distribuido en distintos medios
@@ -267,7 +268,11 @@ DEL USUARIO, POTENCIALES SOLUCIONES
 
 ![sketches](images/sketches.jpg)
 
-![wireframes figma](images/wireframes.jpg)
+![wireframes figma](images/wireframes.png)
+
+[wireframes figma](https://www.figma.com/proto/7jvuqExKReBRWGX64y86RA/proyecto-2-banca-redise%C3%B1o?scaling=scale-down)
+
+[landing page figma](https://www.figma.com/proto/WR8DMVjKWygs6zTnAwbigz3e/Landing-page-Tus-Finanzas?node-id=0%3A1&scaling=min-zoom)
 
 
 ## 7. Prototipos interactivos
