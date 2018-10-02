@@ -1,5 +1,5 @@
 # Aplicación financiera "Tus Finanzas"
-
+![portada app de finanzas](images/portada.jpg)
 
 ## 1. Objetivos comerciales y especificaciones técnicas
 Objetivos iniciales del proyecto
@@ -145,6 +145,7 @@ Esta sección muestra una consistencia en cuanto al despliegue de la informació
 
 
 **Insights de investigación y estadísticas**
+![insights usuarios](insights.png)
 * Los mexicanos ahorran de manera informal (tandas, debajo del colchón), lo hacemos pensando en el corto plazo.
 * El ahorro es a corto plazo, para cubrir emergencias o metas personales inmediatas.
 * No pensamos en el futuro, no planeamos el futuro.
@@ -277,6 +278,35 @@ https://marvelapp.com/5igehb5
 ## 8. Diseño visual
 
 [Presentación Implementación](https://docs.google.com/presentation/d/1OdNk1RsB-MBuvHc30mfXdeXWqLl9oMv26FKrXguSlek/edit?usp=sharing)
+
+#### Landing Page
+![Landing Page](images/landingpage.png)
+
+#### Registro
+![Onboarding](images/onboarding.png)
+
+![Registro](images/registro.png)
+
+#### Presupuesto
+![Presupuesto](images/presupuesto.png)
+
+#### Movimientos
+![Registro](images/mov.png)
+
+
+#### Gastos
+![Gastos](images/gastos.png)
+
+
+#### Ahorro
+![Crear Metas de Ahorro](images/metasdeahorro.png)
+
+![Resumen Metas de Ahorro](images/metasdeahorro1.png)
+
+#### Registro
+![Registro](images/registro.png)
+
+
 
 
 verdes y azules
