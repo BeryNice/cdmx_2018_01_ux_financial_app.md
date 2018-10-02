@@ -191,9 +191,8 @@ Esta sección muestra una consistencia en cuanto al despliegue de la informació
 
 ### Competidores relacionados 
 #### Benchmark
+[ver Link](https://docs.google.com/spreadsheets/d/1LTpDwX2iVHxB_ZMufXM5n4Rd8qZYUyqSg7xSs7XdOXQ/edit?usp=sharing)
 ![Competidores relacionados](images/benchmark.png)
-Benchmark [ver Link](https://docs.google.com/spreadsheets/d/1LTpDwX2iVHxB_ZMufXM5n4Rd8qZYUyqSg7xSs7XdOXQ/edit?usp=sharing)
-
 
 
 #### Ideación
@@ -291,7 +290,7 @@ https://marvelapp.com/5igehb5
 ![Presupuesto](images/presupuesto.png)
 
 #### Movimientos
-![Registro](images/mov.png)
+![Registro](images/movimientos-editar.png)
 
 
 #### Gastos
