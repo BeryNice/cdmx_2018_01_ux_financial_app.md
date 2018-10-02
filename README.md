@@ -313,20 +313,15 @@ https://marvelapp.com/5igehb5
 
 
 
-verdes y azules
-
-El verde es el color del crecimiento, de la renovación y el renacimiento.
+#### Colores verdes y azules
+* El verde es el color del crecimiento, de la renovación y el renacimiento.
 Favorece la resolución de problemas, así como la libertad, la sanación y la tranquilidad.
 El verde opaco representa el dinero, a lo económico y a la burguesía
-Es el color azul es el más usado en las empresas por ser productivo y no invasivo.
+
+* Es el color azul es el más usado en las empresas por ser productivo y no invasivo.
 Es un color que sugiere sensación de seguridad y confianza en una marca.
 
 
 
-
-
-
-## 9. Guía de estilo y especificaciones para desarrolladores
-
-## 10. Pruebas de usabilidad e informes de análisis de uso
+[video en loom](https://www.useloom.com/share/78c84675df6d472f866810368ab3c8d8)
 
