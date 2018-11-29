@@ -1,12 +1,10 @@
-# REDISEÑO DE APP FINANCIERA "Tus Finanzas"
+# "Tus Finanzas" Rediseño de producto
 Tus Finanzas es un proyecto individual dónde evalué el desempeño de la aplicación y propuse los cambios necesarios para optimizar el producto, mejorando la experiencia de usuario, ofreciendo control de sus finanzas a través de un registro de gastos mensuales que fomenten el ahorro.
 
 ![e-commerce-gictoner-preview](https://user-images.githubusercontent.com/39560690/49240278-7237c100-f3ca-11e8-85f6-966f84fa13f8.png)
 
 #### Desarrollado para [Laboratoria](https://laboratroria.la)
 
-
-![portada app de finanzas](images/portada.jpg)
 
 ## 1. Objetivos comerciales y especificaciones técnicas
 Objetivos iniciales del proyecto
