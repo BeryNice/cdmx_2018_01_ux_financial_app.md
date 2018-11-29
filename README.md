@@ -1,4 +1,11 @@
-# Aplicación financiera "Tus Finanzas"
+# REDISEÑO DE APP FINANCIERA "Tus Finanzas"
+Tus Finanzas es un proyecto individual dónde evalué el desempeño de la aplicación y propuse los cambios necesarios para optimizar el producto, mejorando la experiencia de usuario, ofreciendo control de sus finanzas a través de un registro de gastos mensuales que fomenten el ahorro.
+
+![e-commerce-gictoner-preview](https://user-images.githubusercontent.com/39560690/49240278-7237c100-f3ca-11e8-85f6-966f84fa13f8.png)
+
+#### Desarrollado para [Laboratoria](https://laboratroria.la)
+
+
 ![portada app de finanzas](images/portada.jpg)
 
 ## 1. Objetivos comerciales y especificaciones técnicas
@@ -312,7 +319,7 @@ https://marvelapp.com/5igehb5
 
 
 
-
+### COLORES UTILIZADOS
 verdes y azules
 
 El verde es el color del crecimiento, de la renovación y el renacimiento.
@@ -320,13 +327,3 @@ Favorece la resolución de problemas, así como la libertad, la sanación y la t
 El verde opaco representa el dinero, a lo económico y a la burguesía
 Es el color azul es el más usado en las empresas por ser productivo y no invasivo.
 Es un color que sugiere sensación de seguridad y confianza en una marca.
-
-
-
-
-
-
-## 9. Guía de estilo y especificaciones para desarrolladores
-
-## 10. Pruebas de usabilidad e informes de análisis de uso
-
